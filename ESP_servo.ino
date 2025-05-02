@@ -21,7 +21,7 @@
 #define WIFI_PASSWORD "87654321"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyDIXYc05Lkl8ZITW76Y907FolQYMUbw8tc"
+#define API_KEY --------------
 
 // Insert RTDB URL
 #define DATABASE_URL "https://gate-system-620fc-default-rtdb.asia-southeast1.firebasedatabase.app/" 
